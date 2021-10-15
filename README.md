@@ -4,7 +4,7 @@
 * HTML
 * CSS (including Bootstrap)
 
-This is a portfolio landing page to showcase my work learning to program at [Epicodus](https://www.epicodus.com). The page will be updated over time to show off the best projects I produce during the program. To access the page, click [HERE](https://aaronminnick.github.io/portfolio_landing_page). Or, follow the setup instructions below to launch the page from a local copy on your machine.
+This is a portfolio landing page to showcase my work learning to program at [Epicodus](https://www.epicodus.com). The page will be updated over time to show off the best projects I produce during the program. To access the page, click [HERE](https://aaronminnick.github.io/portfolio-landing-page/). Or, follow the setup instructions below to launch the page from a local copy on your machine.
 
 ### Setup Instructions:
 _(Please note, the below instructions are using gitbash on a Windows computer. Commands may vary if you are using a different OS or terminal program.)_
