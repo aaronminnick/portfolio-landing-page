@@ -60,6 +60,6 @@ strong {
 }
 
 body {
-  background-image: url("img/modular.jpg");
-  background-color: rgb(240, 240, 240);
+    background-color: rgb(240, 240, 240);
+    background-image: url("../img/modular.jpg");
 }
