@@ -63,3 +63,9 @@ body {
     background-color: rgb(240, 240, 240);
     background-image: url("../img/modular.jpg");
 }
+
+#headshot {
+  float: right;
+  border: 2px solid rgb(60, 60, 60);
+  width: 30%;
+}
