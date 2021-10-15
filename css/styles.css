@@ -12,6 +12,11 @@ ol {
   padding-left: 7%;
 }
 
+hr {
+  margin-top: 5px;
+  margin-bottom; 15px;
+}
+
 .card-title {
   font-weight: 600;
   margin-bottom: 0px;
@@ -19,7 +24,7 @@ ol {
 
 strong {
   font-style: oblique;
-  font-size: 110%;
+  font-size: 105%;
   color: rgb(60, 60, 60);
 }
 
@@ -37,4 +42,19 @@ strong {
   padding-top: 20px;
   padding-bottom: 40px;
   margin-top: 20px;
+}
+
+.heading-style {
+  color: rgb(60, 60, 60);
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.top-link-bar {
+  color: rgb(60, 60, 60);
+  padding-left: 10px;
+}
+
+.top-link-bar a {
+  padding-right: 20px;
 }
