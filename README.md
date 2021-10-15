@@ -16,7 +16,7 @@ $ git init
 ```
 $ git clone https://github.com/aaronminnick/portfolio-landing-page
 ```
-* Open index.htrml with your default browser:
+* Open index.html with your default browser:
 ```
 $ start index.html
 ```
