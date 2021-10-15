@@ -12,8 +12,9 @@ ol {
   padding-left: 7%;
 }
 
-h6 {
+.card-title {
   font-weight: 600;
+  margin-bottom: 0px;
 }
 
 strong {
@@ -28,10 +29,12 @@ strong {
 
 .card .card-body ul {
   list-style-type: none;
+  font-size: 90%;
 }
 
 .container {
   background-color: rgb(200, 215, 225);
   padding-top: 20px;
   padding-bottom: 40px;
+  margin-top: 20px;
 }
