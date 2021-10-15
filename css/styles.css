@@ -20,3 +20,9 @@ strong {
 .card .card-body ul {
   list-style-type: none;
 }
+
+.container {
+  background-color: rgb(200, 215, 225);
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
