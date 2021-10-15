@@ -14,7 +14,7 @@ ol {
 
 hr {
   margin-top: 5px;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 .card-title {
@@ -54,17 +54,55 @@ strong {
 }
 
 #animated-name {
-  animation: myname 20s ease-in-out infinite alternate;
+  animation-name: myname;
+  animation-duration:  12s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  margin-bottom: 2px;
 }
 
 @keyframes myname {
   from {
-    margin-left: 100%;
+    margin-left: 0%;
+    width: 100%;
   }
   to {
-    margin-left: 0%;
+    margin-left: 40%;
+    width: 50%;
   }
 }
+
+#animated-thisguy {
+  animation-name: thisguy;
+  animation-duration:  12s;
+  animation-delay: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  opacity: 0;
+  float: right;
+  margin-right: 5%;
+  margin-bottom: 2px;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+@keyframes thisguy {
+  from {
+    opacity: 0;
+  }
+  85%, 88%, 91%, 94% {
+    opacity: 0;
+  }
+  87%, 90%, 93% {
+    opacity: 1;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
 
 .top-link-bar {
   color: rgb(60, 60, 60);
