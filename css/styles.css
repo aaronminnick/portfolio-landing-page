@@ -14,7 +14,7 @@ ol {
 
 hr {
   margin-top: 5px;
-  margin-bottom; 15px;
+  margin-bottom: 15px;
 }
 
 .card-title {
@@ -29,7 +29,8 @@ strong {
 }
 
 .card {
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(230, 230, 230);
+  margin-bottom: 5px;
 }
 
 .card .card-body ul {
@@ -38,9 +39,11 @@ strong {
 }
 
 .container {
-  background-color: rgb(200, 215, 225);
+  background-color: rgb(240, 235, 240);
   padding-top: 20px;
   padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
   margin-top: 20px;
 }
 
@@ -60,7 +63,7 @@ strong {
 }
 
 body {
-    background-color: rgb(240, 240, 240);
+    background-color: black;
     background-image: url("../img/modular.jpg");
 }
 
@@ -68,4 +71,5 @@ body {
   float: right;
   border: 2px solid rgb(60, 60, 60);
   width: 30%;
+  margin-left: 5px;
 }
