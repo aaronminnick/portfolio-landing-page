@@ -53,6 +53,19 @@ strong {
   font-weight: lighter;
 }
 
+#animated-name {
+  animation: myname 20s ease-in-out infinite alternate;
+}
+
+@keyframes myname {
+  from {
+    margin-left: 100%;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
+
 .top-link-bar {
   color: rgb(60, 60, 60);
   padding-left: 10px;
