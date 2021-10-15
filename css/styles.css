@@ -67,6 +67,12 @@ body {
     background-image: url("../img/modular.jpg");
 }
 
+.subtle {
+  font-style: oblique;
+  color: rgb(120, 120, 120);
+  font-size: 90%;
+}
+
 #headshot {
   float: right;
   border: 2px solid rgb(60, 60, 60);
