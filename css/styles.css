@@ -40,7 +40,7 @@ strong {
 .container {
   background-color: rgb(200, 215, 225);
   padding-top: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   margin-top: 20px;
 }
 
@@ -57,4 +57,9 @@ strong {
 
 .top-link-bar a {
   padding-right: 20px;
+}
+
+body {
+  background-image: url("img/modular.jpg");
+  background-color: rgb(240, 240, 240);
 }
